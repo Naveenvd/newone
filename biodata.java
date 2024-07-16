@@ -7,6 +7,9 @@ public class biodata
      System.out.println("ENTER YOUR NAME");
      String name=obj.next();
      System.out.println(" YOUR NAME IS "+name);
+    System.out.println("enter your age");
+    int age=obj.nextInt();
+    System.out.println("age is"+age);
     }
     
 }
