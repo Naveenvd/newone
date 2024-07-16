@@ -15,7 +15,7 @@ public class student
 		double roll=deti.nextDouble();
 		Scanner mrk = new Scanner(System.in);
 		System.out.println("enter your present days");
-		int Pday=mrk.nextInt();
+		int Pday=val.nextInt();
 		
 		
 		
