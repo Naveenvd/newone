@@ -19,7 +19,7 @@ public class student
 		
 		
 		
-		if (Pday==tda
+		if (Pday==tday)
 		{   int percentage=(Pday*100)/tday;
 			System.out.println("Wow you got  " + percentage+"%");
 		    
